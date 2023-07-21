@@ -9,7 +9,7 @@ They obviously can't be trusted.
 ~~Modding is frustrating, really don't do it if you don't want to lose hours of your life~~
 
 
-[![CoolModder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolModder&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=90,0000b3,000000)](https://github.com/anuraghazra/github-readme-stats)
+[![CoolModder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolModder&theme=dracula&show_icons=true&include_all_commits=true&bg_color=90,0000b3,000000)](https://github.com/anuraghazra/github-readme-stats)
 
 If you care, you can go play my terrible games: 
 https://coolmodder.itch.io/
