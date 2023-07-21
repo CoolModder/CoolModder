@@ -9,4 +9,4 @@ They obviously can't be trusted.
 ~~Modding is frustrating, really don't do it if you don't want to lose hours of your life~~
 
 
-[![CoolModder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolModder&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CoolModder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolModder&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=145,0000b,00000)](https://github.com/anuraghazra/github-readme-stats)
